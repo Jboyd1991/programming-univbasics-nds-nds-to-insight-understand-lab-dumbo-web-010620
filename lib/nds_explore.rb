@@ -8,5 +8,5 @@ end
 
 def print_first_directors_movie_titles
   db_array = directors_database
-    
+    db_array = 
 end
